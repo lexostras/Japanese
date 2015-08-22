@@ -11,8 +11,8 @@ int main(int argc, char *argv[])
 	int z = 0;
 
 	/* This is the presentation part. */
-	printf("Presentation in pregress but yeah,\n");
-	printf("thx for using for now.\n");
+	printf("Welcome to japanese tester 101!\n");
+	printf("Here you will find the joy of learning simple and easy japanese.\n");
 
 	do {
 
